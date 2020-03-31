@@ -4,4 +4,6 @@ World Populations SQL Practice: https://www.codecademy.com/practice/projects/wor
 
 RPA Customer Segmentation: https://www.codecademy.com/paths/data-science/tracks/sql-basics/modules/dspath-sql-projects-and-applications/projects/user-segmentation-prj
 
-Davie's Burgers Subway Ad: 
+Davie's Burgers Subway Ad: https://www.codecademy.com/paths/data-science/tracks/sql-basics/modules/dspath-sql-projects-and-applications/projects/sql-queries-orders
+
+RPA Fraud Detection: https://www.codecademy.com/paths/data-science/tracks/sql-basics/modules/dspath-sql-projects-and-applications/projects/reputable-company
