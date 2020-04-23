@@ -16,3 +16,5 @@ Analyze Users Data: https://www.codecademy.com/paths/data-science/tracks/sql-int
 Trends in Startups: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates/projects/fakeapps
 
 Twitch analysis with SQL: https://github.com/sonnynomnom/Codecademy-Learn-SQL-from-Scratch/tree/master/Twitch
+
+Hacker News: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates-projects-and-applications/projects/sql-hackernews
