@@ -20,3 +20,5 @@ Twitch analysis with SQL: https://github.com/sonnynomnom/Codecademy-Learn-SQL-fr
 Hacker News: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates-projects-and-applications/projects/sql-hackernews
 
 The Metropolitan Museum of Art (met): https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates-projects-and-applications/projects/sql-the-met
+
+Ledger Cryptocurrency: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates-projects-and-applications/projects/sql-aggregates-crypto
