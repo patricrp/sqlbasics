@@ -24,3 +24,5 @@ The Metropolitan Museum of Art (met): https://www.codecademy.com/paths/data-scie
 Ledger Cryptocurrency: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-aggregates-projects-and-applications/projects/sql-aggregates-crypto
 
 REBU: https://www.codecademy.com/paths/data-science/tracks/sql-intermediate/modules/dspath-sql-multiple-tables/projects/querying-tables
+
+Warby Parker Funnel: https://www.codecademy.com/paths/data-science/tracks/analyze-data-sql-analyze-real-data/modules/analyze-data-sql-usage-funnels/projects/analyze-data-sql-usage-funnels-with-warby-parker
